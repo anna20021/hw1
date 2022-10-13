@@ -1,0 +1,15 @@
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.csproj.AssemblyReference.cache
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.AssemblyInfoInputs.cache
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.AssemblyInfo.cs
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/C++/hw1/ex8/bin/Debug/net6.0/ex8
+/Users/User/Desktop/C++/hw1/ex8/bin/Debug/net6.0/ex8.deps.json
+/Users/User/Desktop/C++/hw1/ex8/bin/Debug/net6.0/ex8.runtimeconfig.json
+/Users/User/Desktop/C++/hw1/ex8/bin/Debug/net6.0/ex8.dll
+/Users/User/Desktop/C++/hw1/ex8/bin/Debug/net6.0/ex8.pdb
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.dll
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/refint/ex8.dll
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.pdb
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ex8.genruntimeconfig.cache
+/Users/User/Desktop/C++/hw1/ex8/obj/Debug/net6.0/ref/ex8.dll
