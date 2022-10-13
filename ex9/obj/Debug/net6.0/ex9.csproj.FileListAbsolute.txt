@@ -1,0 +1,15 @@
+/Users/User/Desktop/C++/hw1/ex9/bin/Debug/net6.0/ex9
+/Users/User/Desktop/C++/hw1/ex9/bin/Debug/net6.0/ex9.deps.json
+/Users/User/Desktop/C++/hw1/ex9/bin/Debug/net6.0/ex9.runtimeconfig.json
+/Users/User/Desktop/C++/hw1/ex9/bin/Debug/net6.0/ex9.dll
+/Users/User/Desktop/C++/hw1/ex9/bin/Debug/net6.0/ex9.pdb
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.csproj.AssemblyReference.cache
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.AssemblyInfoInputs.cache
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.AssemblyInfo.cs
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.dll
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/refint/ex9.dll
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.pdb
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ex9.genruntimeconfig.cache
+/Users/User/Desktop/C++/hw1/ex9/obj/Debug/net6.0/ref/ex9.dll
